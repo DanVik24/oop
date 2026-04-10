@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Исходные данные прямо в коде (без ввода с консоли)
-        String sentence = "!"; 
+        String sentence = "Du, du hast, du hast mich Du, du hast, du hast mich Du, du hast, du hast mich Du, du hast, du hast mich Du, du hast, du hast mich, du hast mich Du hast mich gefragt, du hast mich gefragt Du hast mich gefragt und ich hab nichts gesagt!"; 
 
         // Создаём объект и передаём предложение в конструктор
         SentenceAnalyzer analyzer = new SentenceAnalyzer(sentence);
